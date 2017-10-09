@@ -1,0 +1,5 @@
+123456789 Tyler Allen 19 M 990857685 211 Computer_Science 100 Political_Science 120 Music_Intro
+234567891  Tom Albert 20 M 599085768 112 Social_Science 322 Chemistry 200 Biology
+345678912  Larry Gore 21 M 883082768 113 Female_Science 422 Male_Science 199 Tennis
+645558912  Tina Roberts 27 F 772082768 177 Basketball 499 Art 322 History
+244244412 Leeroy Jenkins 90001 M 112082768 122 Video_Game_Design 231 Computer_Science 144 Spanish
